@@ -32,7 +32,8 @@ It is designed to learn web skills, algorithm mainly.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/vuetify.svg" alt="Vuetify" height="50" />  
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" alt="npm" height="50" />  
-<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/yarn.svg" alt="yarn" height="50" />  
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/yarn.svg" alt="yarn" height="50" />
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="Vscode" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
@@ -44,8 +45,9 @@ It is designed to learn web skills, algorithm mainly.
 
 ### Backend  
 <div>  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/eclipse-11.svg" alt="eclipse" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js" height="50" />  
