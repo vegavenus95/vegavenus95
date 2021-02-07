@@ -28,8 +28,8 @@ It is designed to learn web skills, algorithm mainly.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" alt="Node.js" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />  
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/vuetify.svg" alt="Vuetify" height="50" />  
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/npm-square-red-1.svg" alt="npm" height="50" />  
 <img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/yarn.svg" alt="yarn" height="50" />  
