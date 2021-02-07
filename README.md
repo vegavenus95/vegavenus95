@@ -74,7 +74,7 @@ It is designed to learn web skills, algorithm mainly.
 </a>
     <a href="https://notion.so/hongg0920" target="_blank">
 <img 
-        src="http://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white&alt=notion"
+        src="http://img.shields.io/badge/notion-white?style=flat&logo=notion&logoColor=black&alt=notion"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
   <a href="https://www.facebook.com/HG0920" target="_blank">
