@@ -72,7 +72,12 @@ It is designed to learn web skills, algorithm mainly.
         src="http://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white&alt=github"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-  <a href="https://www.facebook.com/HG0920" target="_blank">
+    <a href="https://notion.so/hongg0920" target="_blank">
+<img 
+        src="http://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white&alt=notion"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+  <a href="https://www.facebook.com/HG0920"&target="_blank">
 <img 
         src="http://img.shields.io/badge/facebook-1877F2?style=flat&logo=facebook&logoColor=white&alt=facebook"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
@@ -82,11 +87,7 @@ It is designed to learn web skills, algorithm mainly.
         src="http://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white&alt=instagram"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-  <a href="https://notion.so/hongg0920" target="_blank">
-<img 
-        src="http://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white&alt=notion"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+
 </div>  
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=soft&color=auto&height=10)
