@@ -15,7 +15,7 @@
 ## My Skill Set  
 
 ### Frontend  
-<div align="center">  
+<div>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
@@ -28,10 +28,10 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="50" />  
-</div>
+</div>  
 
 ### Backend  
-<div align="center">  
+<div>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />  
@@ -42,13 +42,37 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
-</div>
+</div>  
 
 ### DevOps  
-<div align="center">  
+<div>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
 </div>  
 
+## Connect with me  
+<div align="center">
+<a href="https://gmail.com" target="_blank">
+<img 
+        src="http://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white&alt=gmail"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+ <a href="https://github.com/vegavenus95" target="_blank">
+<img 
+        src="http://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white&alt=github"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+  <a href="https://www.facebook.com/HG0920" target="_blank">
+<img 
+        src="http://img.shields.io/badge/facebook-1877F2?style=flat&logo=facebook&logoColor=white&alt=facebook"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+<a href="https://instagram.com/hongg0920" target="_blank">
+<img 
+        src="http://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white&alt=instagram"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+
+</div>  
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=soft&color=auto&height=10)
