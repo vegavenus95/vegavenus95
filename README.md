@@ -62,7 +62,7 @@ It is designed to learn web skills, algorithm mainly.
 
 ## Connect with me  
 <div>
-<a href="https://gmail.com" target="_blank">
+<a href="mailto:vegavenus0920@gmail.com" target="_blank">
 <img 
         src="http://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white&alt=gmail"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
