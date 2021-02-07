@@ -1,6 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=JIHEE&fontSize=70&fontAlign=80&fontAlignY=35&rotate=10)
 
-# <div align="center">Welcome! Jihee's github💻</h1>  
+# <div align="center">Welcome! Jihee's github💻</h1> 
+
+## Introduce Myself 
+
+#### I majored in Computer Science at South Korea.(2016.02~2020.02)  
+
+#### I'm participating in <a href="https://www.ssafy.com/">SSAFY(Samsung Software Academy For Youth)</a>.(2020.07~2021.06)
+  
+
+It is one year educational programming program that operated by Samsung.  
+It is designed to learn web skills, algorithm mainly.  
+  
 
 ## Github Stats  
 
@@ -51,7 +62,7 @@
 </div>  
 
 ## Connect with me  
-<div align="center">
+<div>
 <a href="https://gmail.com" target="_blank">
 <img 
         src="http://img.shields.io/badge/gmail-EA4335?style=flat&logo=gmail&logoColor=white&alt=gmail"
@@ -72,7 +83,6 @@
         src="http://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white&alt=instagram"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
-
 </div>  
 
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=soft&color=auto&height=10)
