@@ -7,11 +7,10 @@
 #### I majored in Computer Science at South Korea.(2016.02~2020.02)  
 
 #### I'm participating in <a href="https://www.ssafy.com/">SSAFY(Samsung Software Academy For Youth)</a>.(2020.07~2021.06)
-  
-
 It is one year educational programming program that operated by Samsung.  
 It is designed to learn web skills, algorithm mainly.  
   
+<br/>  
 
 ## Github Stats  
 
@@ -19,9 +18,7 @@ It is designed to learn web skills, algorithm mainly.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vegavenus95&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
 <br/>  
-
 
 ## My Skill Set  
 
@@ -59,7 +56,9 @@ It is designed to learn web skills, algorithm mainly.
 <div>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-</div>  
+</div>    
+
+<br/>    
 
 ## Connect with me  
 <div>
@@ -81,6 +80,11 @@ It is designed to learn web skills, algorithm mainly.
 <a href="https://instagram.com/hongg0920" target="_blank">
 <img 
         src="http://img.shields.io/badge/instagram-E4405F?style=flat&logo=instagram&logoColor=white&alt=instagram"
+        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+  <a href="https://notion.so/hongg0920" target="_blank">
+<img 
+        src="http://img.shields.io/badge/notion-000000?style=flat&logo=notion&logoColor=white&alt=notion"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 </div>  
