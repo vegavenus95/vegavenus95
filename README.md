@@ -64,6 +64,7 @@ It is designed to learn web skills, algorithm mainly.
 <div>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" height="50" />  
 </div>    
 
 <br/>    
