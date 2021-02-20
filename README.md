@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=JIHEE&fontSize=70&fontAlign=80&fontAlignY=35&rotate=10)
 
-# <div align="center">Welcome! Jihee's github💻</h1> 
+# <div align="center">Welcome!! Jihee's github💻</h1> 
 
 ## Introduce Myself 
 
