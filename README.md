@@ -8,7 +8,7 @@
 
 #### I'm participating in <a href="https://www.ssafy.com/">SSAFY(Samsung Software Academy For Youth)</a>.(2020.07~)
 It is one year educational programming program that operated by Samsung.  
-It is designed to learn web skills, algorithm mainly.  
+It is designed to learn web skill(JAVA, SPRING, VUE.JS), algorithm mainly.  
   
 <br/>  
 
