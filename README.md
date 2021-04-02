@@ -2,7 +2,7 @@
 
 # <div align="center">Welcome!! Jihee's github💻</h1> 
 
-## Introduce Myself
+## Introduce Myself!
 
 #### I majored in Computer Science at South Korea.(2016.02~2020.02)  
 
