@@ -39,8 +39,6 @@ It is designed to learn web skill(JAVA, SPRING, VUE.JS), algorithm mainly.
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/logo-title.svg" alt="Chart.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" />  
-<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/photoshop-cc.svg" alt="Photoshop" height="50" />  
-<img style="margin: 10px" src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="Adobe XD" height="50" />  
 </div>  
 
 ### Backend  
