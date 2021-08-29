@@ -6,7 +6,7 @@
 
 #### I majored in Computer Science at South Korea.(2016.02~2020.02)  
 
-#### I'm participating in <a href="https://www.ssafy.com/">SSAFY(Samsung Software Academy For Youth)</a>.(2020.07~)
+#### I'm participating in <a href="https://www.ssafy.com/">SSAFY(Samsung Software Academy For Youth)</a>.(2020.07~2021.06)
 It is one year educational programming program that operated by Samsung.  
 It is designed to learn web skill(JAVA, SPRING, VUE.JS), algorithm mainly.  
   
